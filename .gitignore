@@ -1,0 +1,6 @@
+# Ignore local editor and temporary files
+*.tmp
+*.log
+.vscode/
+.idea/
+.DS_Store
