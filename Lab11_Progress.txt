@@ -1,2 +1,4 @@
-My name is Umar Hanif. This is CS-117 ICT Lab 11 on Git and GitHub.
+My name is Muhammad Umar Hanif.
+This is CS-117 ICT Lab 11 on Git and GitHub.
 My CMS ID: 600427
+This progress note was recorded on the feature branch.
